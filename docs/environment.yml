@@ -15,8 +15,8 @@ dependencies:
       - scanpy>=1.9.1
       - scvi-tools>=0.16.4
       - scib>=1.0.3
-      - torch>=1.13.0
-      - torchtext
+      - torch==2.0.0
+      - torchtext==0.15.1
       - tqdm>=4.64.0
       - typing-extensions>=4.2.0
       - umap-learn>=0.5.3
@@ -27,3 +27,4 @@ dependencies:
       - nbsphinx
       - nbsphinx-link
       - myst_nb
+      - wandb

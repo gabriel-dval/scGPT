@@ -154,3 +154,4 @@ examples/save
 examples/modality_pred/data
 figures/
 .DS_Store
+scgpt_env/*
